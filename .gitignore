@@ -1,0 +1,7 @@
+echo "venv/
+.DS_Store
+__pycache__/
+node_modules/
+frontend/node_modules/
+handwriting_dataset/
+preprocessed_images/" > .gitignore
